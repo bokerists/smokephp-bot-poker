@@ -27,7 +27,7 @@
 
       error_log("Currently playing tournament $tournamentId");
 
-      return 0;
+      return 2000;
 
     }
 
