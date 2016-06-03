@@ -27,7 +27,7 @@
 
       error_log("Currently playing tournament $tournamentId");
 
-      return 2000;
+      return $gamestate['callAmount'];
 
     }
 
